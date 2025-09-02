@@ -1,0 +1,4 @@
+scikitleran
+transformers
+torch
+streamlit
