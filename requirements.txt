@@ -1,4 +1,3 @@
-scikitleran
 transformers
 torch
 streamlit
